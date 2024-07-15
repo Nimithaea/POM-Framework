@@ -21,6 +21,6 @@ describe('POM-Page Object Model', function() {
       categories.getSearchCategory('Computer')
       categories.getSearchInvalidCategory('Test')
 
-    })
+    })    
     
 })

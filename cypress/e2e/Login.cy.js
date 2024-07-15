@@ -16,8 +16,5 @@ describe('POM-Page Object Model', function() {
       login.submit()
     })
 
-    it('click on Categories Page',  function() {
-      categories.getCategories()
-    })
     
 })
